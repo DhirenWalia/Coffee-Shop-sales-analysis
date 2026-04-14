@@ -2,6 +2,8 @@
 
 An Excel dashboard analyzing sales data from a NYC coffee shop chain with 3 locations — built to find peak hours, top products, and store performance patterns.
 
+<img width="1888" height="778" alt="Dashboard_Preview_COFFEE" src="https://github.com/user-attachments/assets/4ef1311c-0c7a-4197-bcc5-ecc5c82b10c3" />
+
 
 ## The dashboard helps analyze:
 
